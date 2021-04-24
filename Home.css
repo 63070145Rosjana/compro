@@ -2378,7 +2378,7 @@
   max-width: 300px;
   margin: auto;
   text-align: center;
-  font-family: arial;
+  font-family: 'Kanit', sans-serif;
 }
 
 .title {
@@ -2403,6 +2403,11 @@ a {
   text-decoration: none;
   font-size: 22px;
   color: black;
+}
+.h4{
+  font-family: 'Kanit', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
 }
 
 button:hover, a:hover {
