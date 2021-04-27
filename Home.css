@@ -1,6 +1,23 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/jh.jpg");
+  /* background-color:; */
   background-position: 50% 50%;
+}
+.u-section-1 .u-image-1{
+  background: url("images/page4.png") no-repeat;
+  display: block;
+  height: 700px;
+    width: 401px;
+    margin-top: -600px;
+    margin-left: auto;
+}
+.u-section-1 .u-image-1:hover {
+  background: url("images/page3.png") no-repeat;
+  display: block;
+  height: 700px;
+    width: 401px;
+    margin-top: -600px;
+    margin-left: auto;
+    cursor: pointer;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -112,6 +129,14 @@
     margin-right: -15px;
     margin-bottom: 50px;
   }
+  .u-section-1 .u-image-1{
+    margin-left: auto;
+    margin-top: -500px;
+  }
+  .u-section-1 .u-image-1:hover{
+    margin-left: auto;
+    margin-top: -500px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -150,6 +175,13 @@
   .u-section-1 .u-btn-2 {
     margin-right: -24px;
     margin-bottom: 40px;
+  }
+  .u-section-1 .u-image-1{
+    margin-top: -100px;
+  }
+  .u-section-1 .u-image-1:hover{
+    margin-left: auto;
+    margin-top: -100px;
   }
 }
 
@@ -580,19 +612,19 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/b_prodotti127622rel04d88bda7fdb40ecb2594e35afd3d5fa.jpg");
+  background-image: url("images/sec3_1.png");
   min-height: 319px;
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-image-2 {
-  background-image: url("images/366MetalTweedMentos.jpg");
+  background-image: url("images/sec3_2.png");
   min-height: 319px;
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-image-3 {
-  background-image: url("images/1008157_1.jpg");
+  background-image: url("images/sec3_3.png");
   min-height: 319px;
   background-position: 50% 50%;
 }
@@ -2027,6 +2059,7 @@
   -ms-transform: scale(1.2); /* IE 9 */
   -webkit-transform: scale(1.2); /* Safari 3-8 */
   transform: scale(1.2);
+  cursor: pointer;
 }
 
 @media (max-width: 1199px) {
