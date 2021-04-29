@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 .text-header{
   margin-left: auto;
   margin-top: -70px;
@@ -67,6 +70,13 @@
 }
 
 @media (max-width: 1199px) {
+  .text-header{
+    margin-left: auto;
+    margin-top: 0px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+  }
   .u-section-1 .u-sheet-1 {
     min-height: 598px;
   }
