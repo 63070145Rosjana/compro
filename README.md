@@ -3,6 +3,14 @@ https://comprobinproject.netlify.app/
 
 https://www.youtube.com/watch?v=oOviUhR0LE8
 
+-----------------------------------------------------
+
+poster
+
+https://drive.google.com/file/d/19dOrPF3o-riJUnWCYWIKTFnXTAtoD7l3/view?usp=sharing
+
+-------------------------------------------------------------------------------------------
+
 สมาชิกกลุ่ม
 
 1.นายพิสิฐพงศ์ ปาละวิสุทธิ์ รหัส 63070122
